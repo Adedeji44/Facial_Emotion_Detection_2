@@ -6,7 +6,8 @@ recognising the expression on a human face from a digital image or a database of
 and this can form the basis on which other actions can be performed
 
 The model should be able to perform multi-class classification on images of facial expressions, to
-classify the expressions according to the associated emotion. 
+classify the expressions according to the associated emotion 'happy', 'sad', 'neutral',
+'surprise'. 
 
 **Objective:  Using transfer learning to find the most efficient Deep Learning architecture that can
 accurately classify images of facial expressions into 4 classes namely 'happy', 'sad', 'neutral',
