@@ -10,5 +10,5 @@ classify the expressions according to the associated emotion 'happy', 'sad', 'ne
 'surprise'. 
 
 **Objective:  Using transfer learning to find the most efficient Deep Learning architecture that can
-accurately classify images of facial expressions into 4 classes namely 'happy', 'sad', or 'neutral',
+accurately classify images of facial expressions into 4 classes namely 'happy', 'sad', 'neutral', or
 'surprise'.**
